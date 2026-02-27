@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\bin\Debug\Metodos de busqueda.exe.config
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\bin\Debug\Metodos de busqueda.exe
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\bin\Debug\Metodos de busqueda.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\obj\Debug\Metodos de busqueda.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\obj\Debug\Metodos de busqueda.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\obj\Debug\Metodos de busqueda.exe
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\obj\Debug\Metodos de busqueda.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Metodos de busqueda\Metodos de busqueda\Metodos de busqueda\obj\Debug\Metodos de busqueda.exe.config
