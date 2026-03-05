@@ -1,9 +1,9 @@
-Programa de Búsqueda Lineal y Búsqueda Binaria en C#
+# Programa de Búsqueda Lineal y Búsqueda Binaria en C#
 
-Link a video y a diagrama del codigo:
+# Link a video y diagrama del codigo
 https://drive.google.com/drive/folders/1sv410eUTgNtw08ETwra1DC2LR-RdWLM7?usp=sharing
 
-Descripción:
+# Descripción
 
 Este programa fue desarrollado en C# y tiene como objetivo mostrar cómo funcionan dos métodos de búsqueda dentro de un arreglo de números.
 
